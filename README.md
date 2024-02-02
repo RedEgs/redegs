@@ -9,7 +9,7 @@ Greetings! I am Charlie, a dedicated college student with a profound passion for
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [tothemuun21@gmail.com](mailto:tothemuun21@gmail.com)
 * 🚀  I'm currently working on [Citrus Cats TD](http://github.com/RedEgs/Cats-Citrus-Attack-TD)
-* 🧠  I'm learning OpenGL +Pygame CE
+* 🧠  I'm learning OpenGL + Pygame CE
 
 <a href="https://www.x.com/egs_red" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/egs_red?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
