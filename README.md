@@ -1,7 +1,7 @@
 Hi 👋 My name is Charlie Gough
 ==============================
 
-Self Proclaimed Python and Lua Developer
+Python and Lua Developer
 ----------------------------------------
 
 Greetings! I am Charlie, a dedicated college student with a profound passion for programming and gaming. Combining my academic pursuits with hands-on experience. 👨‍💻 Programming Excellence: I specialize in Python and Lua. I have around 4+ years of experience to my name! My commitment to excellence ensures my projects are not only functional but also technologically advanced.
