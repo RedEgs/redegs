@@ -8,8 +8,8 @@ Greetings! I am Charlie, a dedicated college student with a profound passion for
 
 * 🌍  I'm based in England
 * ✉️  You can contact me at [tothemuun21@gmail.com](mailto:tothemuun21@gmail.com)
-* 🚀  I'm currently working on [Citrus Cats TD](http://github.com/RedEgs/Cats-Citrus-Attack-TD)
-* 🧠  I'm learning Pygame CE + OpenGL
+* 🚀  I'm currently working on [RedEngine (Rust Port)]([http://github.com/RedEgs/Cats-Citrus-Attack-TD](https://github.com/RedEgs/rust-redengine))
+* 🧠  I'm learning Rust + Egui 
 * ⚡  My first ever language was C++
 
 ### Skills
