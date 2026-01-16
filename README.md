@@ -1,7 +1,9 @@
 Hello! My name is Charlie.
 ==============================
 
-🙋🏽‍♂️ Hello, My name is Charlie, I am a Computer Science (BEeng) university student at Anglia Ruskin. I have a profound passion for anything computer related but I thoroughly enjoy programming and messing around with computer hardware and electronics. 
+🙋🏽‍♂️ Hello, My name is Charlie, I am a Computer Science (BEeng) university student at Anglia Ruskin. 
+
+I have a profound passion for anything computer related but I thoroughly enjoy programming and messing around with computer hardware and electronics. 
 
 I often pickup projects in topics that pique my interest and are of wide variety, but my favourite areas are low level, hardware restrictive projects and game engines. 
 
